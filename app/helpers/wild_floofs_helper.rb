@@ -1,0 +1,2 @@
+module WildFloofsHelper
+end

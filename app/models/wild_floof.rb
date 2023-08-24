@@ -1,0 +1,2 @@
+class WildFloof < ApplicationRecord
+end

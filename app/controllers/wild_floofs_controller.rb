@@ -1,0 +1,2 @@
+class WildFloofsController < ApplicationController
+end
